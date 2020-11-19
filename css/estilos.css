@@ -31,3 +31,9 @@ header .tagline {
     font-size: 0.8em;
     margin: 0 0 0 1em;
 }
+footer {
+    background: #3aa;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+}
